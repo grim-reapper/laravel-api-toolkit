@@ -1,0 +1,14 @@
+/vendor/
+/node_modules/
+composer.phar
+.phpunit.result.cache
+.phpunit.cache/
+build/
+.env
+.env.*.local
+.idea/
+.vscode/
+*.log
+.claude
+plan.md
+*.sqlite
